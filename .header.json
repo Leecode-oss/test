@@ -1,0 +1,17 @@
+{
+    "name": "简单的拓展包",
+    "meta": {},
+    "editor": "tsprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "target": "microbit",
+    "targetVersion": "3.1.47",
+    "cloudSync": false,
+    "id": "b21fb427-7ee4-42e3-4c9a-177291a6d581",
+    "recentUse": 1611303360,
+    "modificationTime": 1611303360,
+    "path": "projects/Untitled",
+    "blobCurrent": false,
+    "saveId": null,
+    "githubCurrent": false
+}
